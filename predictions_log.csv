@@ -1,0 +1,6 @@
+username,probability,prediction,risk,accuracy,precision,recall,f1_score,amt,lat,long,city_pop,unix_time,merch_lat,merch_long,prob,pred
+NIVETHA A,0.0,✅ LEGITIMATE,Low,1.0,0.0,0.0,0.0,100.0,40.0,-74.0,100000,1577836800,40.0,-74.0,,
+NIVETHA A,,,High,1.0,1.0,1.0,1.0,24.84,31.8599,-102.7413,23,1371852399,32.57587,-102.604,0.84,🚨 FRAUD
+NIVETHA A,,,Low,1.0,0.0,0.0,0.0,2.86,33.9659,-80.9355,333497,1371816865,33.986391,-81.200714,0.0,✅ LEGIT
+NIVETHA A,,,Low,1.0,0.0,0.0,0.0,100.0,40.0,-74.0,100000,1577836800,40.0,-74.0,0.0,✅ LEGIT
+NIVETHA A,,,Low,1.0,0.0,0.0,0.0,100.0,40.0,-74.0,100000,1577836800,40.0,-74.0,0.0,✅ LEGIT
